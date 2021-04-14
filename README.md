@@ -13,3 +13,4 @@ Here are some links to these sharing artifacts:
 
 - [Dev Approach Data Projects](https://ssrikantan.github.io/blog/2021/04/08/dev-approach-data-projects)
 - [Why you might want to have an end to end walkthrough document in your repo](https://blog.3-4.fr/2021/04/12/end-to-end-walkthrough/)
+- [Python logger class for Azure using Opencensus Python SDK](https://github.com/anandchugh/python_logger_opencensus_azure)
