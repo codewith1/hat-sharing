@@ -13,3 +13,4 @@ Here are some links to these sharing artifacts:
 
 - [Dev Approach Data Projects](https://ssrikantan.github.io/blog/2021/04/08/dev-approach-data-projects)
 - [Why you might want to have an end to end walkthrough document in your repo](https://blog.3-4.fr/2021/04/12/end-to-end-walkthrough/)
+- [Detect Azure secrets in your code with Yelp/detect-secrets extensions](https://github.com/flecoqui/azure-detect-secrets)
