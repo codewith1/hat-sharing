@@ -17,4 +17,5 @@ Here are some links to these sharing artifacts:
 - [How you can avoid code duplication when executing unit tests and linting checks at development time or pull request validation time](https://jchomarat.github.io/one-bash-rule-all/)
 - [Using Visual Studio Code with Data Science dev containers](https://github.com/flecoqui/data-dev-container)
 - [Detect Azure secrets in your code with Yelp/detect-secrets extensions](https://github.com/flecoqui/azure-detect-secrets)
+- [A better way to logging in Python](https://ankitbko.github.io/blog/2021/04/logging-in-python/)
 
