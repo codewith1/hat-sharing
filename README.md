@@ -17,4 +17,5 @@ Here are some links to these sharing artifacts:
 - [Detect Azure secrets in your code with Yelp/detect-secrets extensions](https://github.com/flecoqui/azure-detect-secrets)
 - [How you can avoid code duplication when executing unit tests and linting checks at development time or pull request validation time](https://jchomarat.github.io/one-bash-rule-all/)
 - [A better way to logging in Python](https://ankitbko.github.io/blog/2021/04/logging-in-python/)
-- [Python logger class for Azure using Opencensus Python SDK](https://github.com/anandchugh/python_logger_opencensus_azure)
+- [Python logger class for Azure using Opencensus Python SDK](https://github.com/Azure-Samples/azure-monitor-opencensus-python)
+- [Azure Databricks MLOps using MLflow](https://github.com/Azure-Samples/azure-databricks-mlops-mlflow)
